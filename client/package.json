@@ -34,5 +34,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://mystoreserver.vercel.app/"
+  "proxy":"https://mystoreserver.vercel.app/"
 }
